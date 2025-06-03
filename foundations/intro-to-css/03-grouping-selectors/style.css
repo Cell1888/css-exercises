@@ -1,0 +1,14 @@
+.Uno,
+.Dos {
+    color: white;
+    font-size: 28px;
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+}
+
+.Uno {
+    background-color: black;
+}
+
+.Dos {
+    background-color: orange;
+}
